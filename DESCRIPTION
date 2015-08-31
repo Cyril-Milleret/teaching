@@ -1,0 +1,10 @@
+Package: Teaching
+Type: Package
+Title: Contains some functions
+Version: 0.1
+Date: 2015-08-31
+Author: Cyril Milleret
+Maintainer: <cyril.milleret@hihm.no>
+Description: Contains some functions for teaching
+License: none
+LazyData: TRUE
