@@ -25,3 +25,6 @@ names    <- c("rodents","insectivores","hare",
 red_fox <- c(29,9.8,15,2.5,29.4,1.3,9.5,3.5,0)
 levin(red_fox,stand=TRUE)
 }
+
+
+
