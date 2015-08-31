@@ -13,7 +13,7 @@ Calculate levin Index from a vector. the vector should contain the percentage of
 \arguments{
 \item{species}{Vector with the proportion of food items for the species }
 
-\item{stand}{if TRUE then levins is }
+\item{stand}{if TRUE then levins is standardized}
 
 
 }
