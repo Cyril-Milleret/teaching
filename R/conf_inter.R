@@ -1,5 +1,5 @@
 
-conf_inter<- function(x, y, se=SE, stder=TRUE, low_ci=lowci, up_ci=upci, z=0.1,col="black",lty=1, lwd=1){
+conf_inter<- function(x, y, SE=SE, stder=TRUE, low_ci=lowci, up_ci=upci, z=0.1,col="black",lty=1, lwd=1){
 
 
   if(stder==TRUE){

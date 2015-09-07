@@ -12,9 +12,9 @@ Add confidence intervals to a plot. Provide x and y vectors. Values can be Stand
 \arguments{
 \item{x}{vectors of values on the x axis}
 
-\item{y}{vectors of values on the y axis}
+\item{y}{vectors of values on the y axis, mean values}
 
-\item{SE}{vectors of values on the for the standard error if stder=TRUE}
+\item{SE}{vectors of values on the for the standard error or CI}
 
 \item{stder}{TRUE if you have SE values (1.96*SE), FALSE if you already have CI limits}
 
